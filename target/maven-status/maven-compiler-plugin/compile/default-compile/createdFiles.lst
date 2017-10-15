@@ -1,0 +1,6 @@
+tasks\bookService\data\Word.class
+tasks\App.class
+tasks\bookService\service\impl\BookServiceImpl.class
+tasks\bookService\service\BookService.class
+tasks\bookService\data\Book.class
+tasks\bookService\data\Author.class
